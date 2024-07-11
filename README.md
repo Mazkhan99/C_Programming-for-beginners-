@@ -1,10 +1,10 @@
 # C_Programming-for-beginners-
 # Author : [Maz Khan](https://github.com/Mazkhan99)
 
-# Introduction:
+# Introduction:-
 Welcome to my personal C programming notes Here, you'll find a collection of codes each code to a specific topic in C programming. These notes are my personal reference, and I'm sharing them, in the hope that they might be helpful to others as well. Feel free to explore and use them as a resource for your C programming journey. 😊
 
-# Contributing:
+# Contributing:-
 While these notes are primarily for personal use, I welcome contributions, suggestions, and improvements from the community. If you'd like to contribute or provide feedback, please follow these steps:  
 
 -Fork the repository.  
